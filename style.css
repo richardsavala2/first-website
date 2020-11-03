@@ -1,0 +1,24 @@
+h1, h2 {
+    color: lavender;
+    font-family: sans-serif;
+    width: 50%;
+    text-align: right;
+    position: 'right:50px';
+
+}
+
+#image-container {
+    background: url('https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80');
+    background-position: center;
+    padding: 200px;
+    margin: 10px;
+}
+
+#github-button {
+    color: #d73a49;
+    background-color: #24292e;
+    font-family: sans-serif;
+    font-size: 16px;
+    padding: 10px;
+    background-position: center;
+}
