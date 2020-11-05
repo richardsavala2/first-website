@@ -1,7 +1,7 @@
 const button = document.getElementById('github-button');
 
 button.onmouseover = function() {
-    this.style.backgroundColor = '#f6f8fa';
+    this.style.backgroundColor = '#808080';
 }
 
 button.onmouseout = function() {
