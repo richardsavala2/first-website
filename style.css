@@ -2,6 +2,9 @@ h1, h2 {
     color: #f5f0ff;
     font-family: sans-serif;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 p {
